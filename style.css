@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Playfair+Display&family=Source+Sans+Pro:wght@400&display=swap");
 
 body{
-  background-color:#f9d3e0;
+  background-color:#eae2b7;
 }
 body {
   color: #000000;
@@ -10,6 +10,15 @@ body {
   padding: 40px;
 }
 
+#about {
+  background-color:red;
+  margin: auto;
+  width: 600px;
+}
+#contact{
+  margin: auto;
+  width: 600px;
+}
 /* Set the font family for any h1, h2, or h3 heading */
 div h1 {
     text-align: center;
